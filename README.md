@@ -7,7 +7,7 @@ A structured repository to learn **Matplotlib** from scratch with hands-on examp
 ## 📚 Learning Roadmap
 
 - [x] Day 1 - Introduction to Matplotlib & Line Plots
-- [ ] Day 2 - Bar Charts & Horizontal Bar Charts
+- [x] Day 2 - Bar Charts & Horizontal Bar Charts
 - [ ] Day 3 - Histograms & Distribution Visualization
 - [ ] Day 4 - Scatter Plots & Correlation Analysis
 - [ ] Day 5 - Pie Charts & Custom Styling
